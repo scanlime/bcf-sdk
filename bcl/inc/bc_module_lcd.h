@@ -20,8 +20,6 @@ typedef enum
 
 } bc_module_lcd_event_t;
 
-
-
 // See app note https://www.silabs.com/documents/public/application-notes/AN0048.pdf
 // Figure 3.1
 // 1B mode | 1B addr + 16B data + 1B dummy | 1B dummy END
