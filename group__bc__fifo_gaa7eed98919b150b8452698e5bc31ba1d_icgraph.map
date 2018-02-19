@@ -1,0 +1,10 @@
+<map id="bc_fifo_init" name="bc_fifo_init">
+<area shape="rect" id="node2" href="$group__bc__dma.html#gaf4e59e6f5f06125b5da2840e86242bd8" title="Initialize DMA. " alt="" coords="165,31,257,57"/>
+<area shape="rect" id="node6" href="$group__bc__td1207r.html#ga1b5a8cc467f2285e7894a9397be094dc" title="Initialize TD1207R. " alt="" coords="155,81,266,108"/>
+<area shape="rect" id="node8" href="$group__bc__usb__cdc.html#ga7885c9afced3fa104a82db71f1209501" title="Initialize USB CDC library. " alt="" coords="153,132,269,159"/>
+<area shape="rect" id="node9" href="$group__bc__wssfm10r1at.html#ga59a1f344c6a04ca7feaed904f5e578aa" title="Initialize WSSFM10R1AT. " alt="" coords="139,183,282,209"/>
+<area shape="rect" id="node3" href="$group__bc__dac.html#ga80a3d50005073ae4c6a8ca8d6ccbac93" title="Initialize DAC channel. " alt="" coords="363,5,451,32"/>
+<area shape="rect" id="node4" href="$group__bc__spi.html#ga00fa848c8a590fbb7ba1d567a749a87c" title="Initialize SPI channel. " alt="" coords="365,56,449,83"/>
+<area shape="rect" id="node5" href="$group__bc__module__lcd.html#gaf2ab237ad87e874615bcddec5c0e7ca2" title="Initialize lcd. " alt="" coords="531,56,664,83"/>
+<area shape="rect" id="node7" href="$group__bc__module__sigfox.html#ga85ecac7b2744ca0180323c5448eafe0d" title="Initialize BigClown SigFox Module. " alt="" coords="331,132,482,159"/>
+</map>

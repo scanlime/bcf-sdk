@@ -1,0 +1,5 @@
+<map id="bc_adc_set_event_handler" name="bc_adc_set_event_handler">
+<area shape="rect" id="node2" href="$group__bc__analog__sensor.html#ga022100c5fc133957d5241e3b8034e489" title="Initialize generic analog sensor. " alt="" coords="251,5,402,32"/>
+<area shape="rect" id="node3" href="$group__bc__module__battery.html#ga172e2a7285fc525904fa9c5a77121018" title="Start mesurement. " alt="" coords="232,56,421,83"/>
+<area shape="rect" id="node4" href="$group__bc__module__battery.html#ga16a69bc3476362c1acc6b229f9beb966" title="Set update interval. " alt="" coords="469,49,627,90"/>
+</map>

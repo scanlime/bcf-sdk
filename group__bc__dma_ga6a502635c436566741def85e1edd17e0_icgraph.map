@@ -1,0 +1,5 @@
+<map id="bc_dma_channel_config" name="bc_dma_channel_config">
+<area shape="rect" id="node2" href="$group__bc__dac.html#ga951eac3c42196e9d99e12426eac243e3" title="Start asynchronous DAC channel operation. " alt="" coords="228,5,359,32"/>
+<area shape="rect" id="node3" href="$group__bc__spi.html#ga1b1ac7e6c4d8aafe0c5cdd72effcd95f" title="Execute async SPI transfer. " alt="" coords="217,56,370,83"/>
+<area shape="rect" id="node4" href="$group__bc__module__lcd.html#gaca3d78fa84877a73a9390932db2337b0" title="Lcd update, send data. " alt="" coords="419,56,573,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="bc_dma_set_event_handler" name="bc_dma_set_event_handler">
+<area shape="rect" id="node2" href="$group__bc__dac.html#ga80a3d50005073ae4c6a8ca8d6ccbac93" title="Initialize DAC channel. " alt="" coords="235,5,323,32"/>
+<area shape="rect" id="node3" href="$group__bc__spi.html#ga00fa848c8a590fbb7ba1d567a749a87c" title="Initialize SPI channel. " alt="" coords="237,56,321,83"/>
+<area shape="rect" id="node4" href="$group__bc__module__lcd.html#gaf2ab237ad87e874615bcddec5c0e7ca2" title="Initialize lcd. " alt="" coords="371,56,504,83"/>
+</map>
